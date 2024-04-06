@@ -91,5 +91,3 @@ public class ratinmaze {
 		rat.solveMaze(maze);
 	}
 }
-
-
